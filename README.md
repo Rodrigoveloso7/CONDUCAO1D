@@ -1,2 +1,3 @@
 # CONDUCAO1D
-CONDUÇÃO 1D RESOLUÇÃO ANALÍTICA E NUMÉRICA
+Resoluções analítica e numérica de um problema de condução unidimensional em regime permanente e geração variável.
+
