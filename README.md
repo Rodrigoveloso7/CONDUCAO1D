@@ -1,7 +1,7 @@
 # Condução unidimensional
 Resoluções analítica e numérica de um problema de condução unidimensional em regime permanente e geração variável.
 
-# Problema resolvido
+# Ilustração do problema
 
 <p align="center">
   <img
